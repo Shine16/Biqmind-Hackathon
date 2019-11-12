@@ -1,0 +1,127 @@
+https://www.youtube.com/watch?v=udmJyncDvw0
+sensor
+
+esp8266 plant watering
+
+bliynk
+WiFi Plant Watering ESP8266: 12 Steps (with Pictures)
+https://www.instructables.com/id/WiFi-Plant-Watering-ESP8266/
+
+mqtt own library
+ESP8266 smart plant irrigation system
+https://iot-playground.com/blog/2-uncategorised/94-esp8266-smart-plant-irrigation-system#program
+
+
+blynk
+https://www.dfrobot.com/blog-609.html
+
+lua mqtt code
+https://www.hackster.io/user83754483/esp-controlled-plant-watering-system-b88a0e
+
+
+esp8266 mqtt plant watering
+
+
+mqtt esp8266 sensor
+https://thingsboard.io/docs/samples/esp8266/temperature/
+
+!!!!!!!
+build json String, tocharArray, then can publish
+https://thingsboard.io/docs/samples/esp8266/temperature/#step-3-prepare-and-upload-a-sketch
+
+===================
+capacitive sensor
+5mA working current
+
+light sensor
+5mA
+
+
+hardware
+https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/pinouts
+https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/pinouts
+
+https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-arduino-ide
+gpio0 -> reset -> release reset -> release gpio0
+-----
+
+schematics!!!
+https://learn.adafruit.com/assets/48352
+
+pinouts!!!
+https://www.electronicwings.com/nodemcu/nodemcu-adc-with-arduino-ide
+
+
+
+esp8266 0-1v
+
+analog output
+http://wiki.seeedstudio.com/Grove-Light_Sensor/
+
+analog output
+https://www.dfrobot.com/wiki/index.php/Capacitive_Soil_Moisture_Sensor_SKU:SEN0193
+
+
+
+esp pins
+https://tttapa.github.io/ESP8266/Chap04%20-%20Microcontroller.html
+
+
+volt divider for adc
+https://randomnerdtutorials.com/esp8266-adc-reading-analog-values-with-nodemcu/
+
+
+multiple analog 14, 12, 16
+https://www.instructables.com/id/ESP8266-with-Multiple-Analog-Sensors/
+need diodes
+
+https://www.facebook.com/getcurio/posts/2007174606043860?__xts__%5B0%5D=68.ARAiS4qX2ZO1dZW3gZ5mP7igp2ZaLZHkbpPxXlJzn4X8evAZJ0-DdwgEGmr-sIvvnq2PWQdP8n6RV7hYGrVg089gI9ukECrJU0Ra0oy78iT59_HjclyiTfotP-jMPZKHCqQ2IImkWodP1cLsUDbMb4N2znHPodxiXWECmUEeMwPqi2aUTB4y5jqlmA3zYxCfSopM9qiEER_S1HTQa2F5cAsH-wuixJCGclCFV4Nk74RqpNWcVFof8dSX_lusD4BADu-sV7G75z6LnetmgN2Cmj--6nC-ttvF8q8jU7RCoh9xE5JCrbG_1fcnJMd5DwsqDSH7I2l9MfyWqp6rKr8k3xX6uEuO41zDe_HVuJau7fb1-K8Iw83sI4Icc5UXkLDJWAh6VFFeiVtzKky93qTXa8j1F5PJuv9wZdSgUV5c8a8BfJj67mNzhQGiRHlpCDIAnGkUxgSExXMOSjco7ZnswXOP2GZJSBZn0MNpEW42ntXashLJlCu6yj1kuNHSshmm3FX9NOt21AOJAt3Ei8xAn2uv&__tn__=-R
+
+---
+URL list from Friday, Dec. 7 2018 0:19 AM
+To copy this list, type [Ctrl] A, then type [Ctrl] C. 
+
+Pinouts | Adafruit HUZZAH ESP8266 breakout | Adafruit Learning System
+https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/pinouts
+
+ESP8266 ADC - Reading Analog Values with NodeMCU | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp8266-adc-reading-analog-values-with-nodemcu/
+
+ambient sensor grove - Google Search
+https://www.google.com.sg/search?q=ambient+sensor+grove&rlz=1C1CHBF_enSG822SG822&tbm=isch&source=iu&ictx=1&fir=oVMKyfn3DhNdfM%253A%252CAldEjCDkRnYhSM%252C_&usg=AI4_-kSJy7MGTXyoahKrfmdFSIZ-HWut5w&sa=X&ved=2ahUKEwi_hs3kyIvfAhWGbX0KHTIqAaUQ9QEwA3oECAUQBA#imgrc=GiRG6Y7xkBVDKM:
+
+Grove - Light Sensor
+http://wiki.seeedstudio.com/Grove-Light_Sensor/
+
+Capacitive Soil Moisture Sensor SKU:SEN0193 - DFRobot Electronic Product Wiki and Tutorial: Arduino and Robot Wiki-DFRobot.com
+https://www.dfrobot.com/wiki/index.php/Capacitive_Soil_Moisture_Sensor_SKU:SEN0193#Tutorial
+
+reading sensor with esp8266 - Google Search
+https://www.google.com.sg/search?q=reading+sensor+with+esp8266&rlz=1C1CHBF_enSG822SG822&oq=reading+sensor+with+esp8266&aqs=chrome..69i57.4833j1j7&sourceid=chrome&ie=UTF-8
+
+IoT Temperature Sensor With ESP8266: 6 Steps (with Pictures)
+https://www.instructables.com/id/IoT-Temperature-Sensor-With-ESP8266/
+
+esp8266 digital pins - Google Search
+https://www.google.com.sg/search?q=esp8266+digital+pins&rlz=1C1CHBF_enSG822SG822&oq=esp8266+digital+pins&aqs=chrome..69i57j0l2.5647j1j7&sourceid=chrome&ie=UTF-8
+
+Arduino IDE NodeMCU Digital Input Basics | Henry's Bench
+http://henrysbench.capnfatz.com/henrys-bench/arduino-projects-tips-and-more/arduino-ide-nodemcu-esp-12e-digital-input-basics/
+
+usable esp8266 pins - Google Search
+https://www.google.com.sg/search?q=usable+esp8266+pins&rlz=1C1CHBF_enSG822SG822&oq=usable+esp8266+pins&aqs=chrome..69i57j0.8307j1j7&sourceid=chrome&ie=UTF-8
+
+A Beginner's Guide to the ESP8266
+https://tttapa.github.io/ESP8266/Chap04%20-%20Microcontroller.html
+
+analog 3.3v esp8266 - Google Search
+https://www.google.com.sg/search?q=analog+3.3v+esp8266&rlz=1C1CHBF_enSG822SG822&oq=analog+3.3v+esp8266&aqs=chrome..69i57.6539j1j7&sourceid=chrome&ie=UTF-8
+
+ESP8266 ADC - Reading Analog Values with NodeMCU | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp8266-adc-reading-analog-values-with-nodemcu/
+
+ESP8266 ADC - Analog Sensors: 5 Steps
+https://www.instructables.com/id/ESP8266-ADC-Analog-Sensors/
+
+
+
